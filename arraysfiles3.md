@@ -1,4 +1,4 @@
-https://en.wikiversity.org/wiki/C_Programming/Arrays
+
 ## Unit 4 
 #### Members: 
 * [Jason](https://github.com/JasonPinelo95/Programming_2/edit/master/UNIT_4)
