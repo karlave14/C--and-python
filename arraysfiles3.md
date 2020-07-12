@@ -1,9 +1,9 @@
 https://en.wikiversity.org/wiki/C_Programming/Arrays
 ## Unit 4 
 #### Members: 
-* [jason]( )
+* [Jason](https://github.com/JasonPinelo95/Programming_2/edit/master/UNIT_4)
 * [Andrew]()
-* [karla]()
+* [Karla](https://github.com/karlave14/C--and-python/blob/master/arraysfiles3.md)
 
 ## Arrays 
 
